@@ -1,0 +1,7 @@
+# [youtube.com]
+127.0.0.1 ads.youtube.com
+127.0.0.1 s.youtube.com
+
+# [yyapi.net]
+127.0.0.1 global.yyapi.net
+127.0.0.1 t.global.yyapi.net
